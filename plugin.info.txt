@@ -1,7 +1,7 @@
 base   zohodesklink
 author Florian Lamml
 email  info@florian-lamml.de
-date   2020-12-21
+date   2020-12-22
 name   zohodesklink plugin
 desc   simply create links to zoho desk tickes
 url    https://github.com/LMS235/dokuwiki-plugin-zohodesk
